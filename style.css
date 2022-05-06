@@ -1,0 +1,19 @@
+body{
+    background-color:plum;
+}
+
+h1{
+    font-style: italic;
+}
+
+h4{
+    font-style: inherit ;
+}
+
+#camera{
+    width: 500;
+    height: 400;
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+}
